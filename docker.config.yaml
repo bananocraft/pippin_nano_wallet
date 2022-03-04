@@ -34,7 +34,7 @@ wallet:
   # Run in banano mode
   # If true, the wallet will operate based on the BANANO protocol
   # Default: false
-  #banano: false
+  banano: true
 
   # Preconfigured wallet representative list
   # Only used when accounts are open
